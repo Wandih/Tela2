@@ -1,0 +1,100 @@
+html{
+    text-align: center;
+    background-color: white;
+    background-image: url("/portrait-smile-street-woman.jpg");
+    background-size: 1000px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body{
+    
+    background-color: white;
+    width: 42%;
+    background-position: left;
+    padding-top: 0px;
+    margin-bottom: 0;
+}
+
+input{
+    padding: 10px;
+    
+}
+
+.btn1{
+    line-height: 3%;
+    height:50px;
+    
+    display: inline-block;
+    float: none;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blue;
+    padding: 1px;
+    padding-right: 150px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    padding-inline: 10%;
+    border: 0;
+    border-radius: 0.1cm;
+    
+}
+
+.btn2{
+    height:50px;
+    
+    display: inline-block;
+    float: none;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #395797;
+    padding: 1px;
+    padding-right: 150px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    padding-inline: 10%;
+    border: 0;
+    border-radius: 0.1cm;
+    
+}
+
+.btn3{
+    height:50px;
+    line-height: 1.8;
+    display: inline-block;
+    float: none;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:#1da1f2;
+    padding: 1px;
+    padding-right: 150px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    padding-inline: 10%;
+    border: 0;
+    border-radius: 0.1cm;
+    
+}
+
+.btn4{
+    height:50px;
+    
+    display: inline-block;
+    float: none;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:#f05042;
+    padding: 1px;
+    padding-right: 150px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    padding-inline: 10%;
+    border: 0;
+    border-radius: 0.1cm;
+    
+}
